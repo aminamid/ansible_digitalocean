@@ -1,0 +1,4 @@
+ansible
+#PyYAML
+#https://github.com/aminamid/pp/archive/0.1.0.tar.gz
+#https://github.com/devo-ps/dopy/archive/master.zip
